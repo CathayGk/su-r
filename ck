@@ -26,4 +26,4 @@ kkdcookie = type=http-request,pattern=^https:\/\/api\.yuncheapp\.cn\/pearl-incen
 
 
 [MITM]
-hostname = *.snssdk.com, operation-api.jimistore.com,*.snssdk.com,api.yuncheapp.cn
+hostname = *.snssdk.com, operation-api.jimistore.com,*.snssdk.com,api.yuncheapp.cn,veishop.iboxpay.com
