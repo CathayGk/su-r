@@ -20,10 +20,12 @@ hotsoonread = type=http-request,pattern=https://(\w+-\w+||\w+).snssdk.com/luckyc
 #快看点
 kkdcookie = type=http-request,pattern=^https:\/\/api\.yuncheapp\.cn\/pearl-incentive\/api\/v1\/task\/intervalAward\/receive,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/kkd.js,script-update-interval=0
 
-
+#今日头条
+jrttsign = type=http-request,pattern=^https:\/\/api3-normal-c-\w+\.snssdk\.com\/score_task\/v1\/task\/(sign_in|get_read_bonus),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js,script-update-interval=0
+jrttfarm = type=http-request,pattern=^https:\/\/api3-normal-c-\w+\.snssdk\.com\/ttgame\/game_farm\/home_info,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js,script-update-interval=0
 
 
 
 
 [MITM]
-hostname = *.snssdk.com, operation-api.jimistore.com,*.snssdk.com,api.yuncheapp.cn,veishop.iboxpay.com
+hostname = *.snssdk.com, operation-api.jimistore.com,*.snssdk.com,api.yuncheapp.cn,veishop.iboxpay.com,api3-normal-c-*.snssdk.com
