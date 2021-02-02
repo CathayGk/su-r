@@ -9,9 +9,9 @@ dyjsbread = type=http-request,pattern=^https://(aweme-\w+|aweme).snssdk.com/luck
 
 dyjsbstep = type=http-request,pattern=^https://(aweme-\w+|aweme).snssdk.com/luckycat/aweme/v1/task/walk/step_submit?,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js,script-update-interval=0
 
-#笑普
-笑谱获取body = type=http-request,pattern=https:\/\/veishop\.iboxpay\.com\/*,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js,script-update-interval=0
-笑谱获取更新TOKEN = type=http-request,pattern=https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf-user-auth-web\/ignore_tk\/veishop\/v1\/*,response-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, script-update-interval=0
+#抖音火山
+抖音火山版video = type=http-request,pattern=^https://api3-normal-c-\w+.huoshan.com/hotsoon/flame/task_done/?,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js,script-update-interval=0
+抖音火山版play = type=http-request,pattern=^https://api3-normal-c-\w+.huoshan.com/hotsoon/item/reaction/_play/?,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js,script-update-interval=0
 
 #火山极速
 hotsoonsign = type=http-request,pattern=^https://(\w+-\w+||\w+).snssdk.com/luckycat/hotsoon/v1/task/sign_in_detail?,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon.js,script-update-interval=0
@@ -29,4 +29,4 @@ jrttfarm = type=http-request,pattern=^https:\/\/api3-normal-c-\w+\.snssdk\.com\/
 
 
 [MITM]
-hostname = *.snssdk.com, operation-api.jimistore.com,*.snssdk.com,api.yuncheapp.cn,veishop.iboxpay.com,api3-normal-c-*.snssdk.com
+hostname = *.snssdk.com, operation-api.jimistore.com,*.snssdk.com,api.yuncheapp.cn,api3-normal-c-*.snssdk.com,api3-normal-c-*.huoshan.com
