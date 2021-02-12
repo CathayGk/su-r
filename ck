@@ -15,4 +15,4 @@
 
 
 [MITM]
-hostname = *.youth.cn, ios.baertt.com
+hostname = *.youth.cn,ios.baertt.com
