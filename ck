@@ -13,6 +13,5 @@
 中青看点 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/user\/app_stay\.json,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, requires-body=true
 
 
-
 [MITM]
 hostname = *.youth.cn,ios.baertt.com
