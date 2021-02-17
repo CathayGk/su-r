@@ -17,9 +17,9 @@
 #笑普
 
 笑谱 = type=http-request,pattern=^https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf_customer_activity\/day_cash\/v1\/give_gold_coin_by_video\.json,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js,script-update-interval=0
-#福卡
+#闪
 
-刷福卡 = type=http-request,pattern=https://ddaydshuibaojk.tiantianzf.cn/blessCard/openBall,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/age174/-/main/sfk.js,script-update-interval=0
+闪挣 = type=http-request,pattern=^https://api-9f9d25.sz365.cn/api/virtual_currency_v2/reward,requires-header=1,max-size=0,script-path=https://raw.githubusercontent.com/age174/-/main/sz.js,script-update-interval=0
 
 [MITM]
-hostname = *.youth.cn,ios.baertt.com,ranlv.lvfacn.com, veishop.iboxpay.com,ddaydshuibaojk.tiantianzf.cn
+hostname = *.youth.cn,ios.baertt.com,ranlv.lvfacn.com, veishop.iboxpay.com,api-9f9d25.sz365.cn
