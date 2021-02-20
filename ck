@@ -17,9 +17,11 @@
 #笑普
 
 笑谱 = type=http-request,pattern=^https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf_customer_activity\/day_cash\/v1\/give_gold_coin_by_video\.json,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js,script-update-interval=0
-#闪
+#惊喜tok
 
-闪挣 = type=http-request,pattern=^https://api-9f9d25.sz365.cn/api/virtual_currency_v2/reward,requires-header=1,max-size=0,script-path=https://raw.githubusercontent.com/age174/-/main/sz.js,script-update-interval=0
+京喜token = type=http-request,pattern=^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
+  京喜token = type=http-request,pattern=^https\:\/\/m\.jingxi\.com\/dreamfactory\/generator\/CollectCurrentElectricity,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
+  京喜token = type=http-request,pattern=^https\:\/\/m\.jingxi\.com\/jxcfd\/consume\/CashOut,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
 
 [MITM]
-hostname = *.youth.cn,ios.baertt.com,ranlv.lvfacn.com, veishop.iboxpay.com,api-9f9d25.sz365.cn
+hostname = *.youth.cn,ios.baertt.com,ranlv.lvfacn.com, veishop.iboxpay.com,api-9f9d25.sz365.cn,wq.jd.com,m.jingxi.com
