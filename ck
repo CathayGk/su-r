@@ -1,5 +1,5 @@
 #!name=box&sub
-#!desc=自用的
+#!desc=哔哩哔哩
 
 [Script]
 #惊喜tok
