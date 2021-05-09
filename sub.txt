@@ -12,7 +12,7 @@ server=8.8.8.8
 
 [policy]
 static=🚀 节点选择, ♻️ 自动选择, 🇭🇰 香港节点, 🌀 手动切换, 🎯 全球直连
-static=🌀 手动切换, 
+static= 手动切换, 🇭🇰 中国香港Aws·01-1.0x, 🇭🇰 中国香港Aws·02-1.0x, 🇭🇰 中国香港Aws·03-1.0x, 🇭🇰 中国香港Aws·04-1.0x, 🇭🇰 中国香港Aws·05-1.0x, 🇭🇰 中国香港Aws·06-1.0x, 🇭🇰 中国香港Aws·07-1.0x, 🇭🇰 中国香港Aws·08-1.0x, 🇭🇰 中国香港Aws·09-1.0x, 🇭🇰 中国香港Aws·10-1.0x, 🇭🇰 中国香港CN2-01-1.5x, 🇭🇰 中国香港CN2-02-1.5x, 🇭🇰 中国香港CN2-03-1.5x, 🇭🇰 中国香港CN2-04-1.5x, 🇭🇰 中国香港CN2-05-1.5x, 🇭🇰 中国香港CN2-06-1.5x,  日本东京NTT·01-BGP-1.0x,  日本东京NTT·02-BGP-1.0x,  日本东京NTT·03-BGP-1.0x,  日本东京NTT·04-BGP-1.0x,  日本东京NTT·05-BGP-1.0x, 🇸🇬 新加坡狮NTT·01-BGP-1.0x, 🇸🇬 新加坡狮NTT·03-BGP-1.0x, 🇸🇬 新加坡狮NTT·04-BGP-1.0x, 🇸🇬 新加坡狮NTT·05-BGP-1.0x,  美国圣何塞CUII·01-0.5x,  美国圣何塞CUII·02-0.5x,  美国圣何塞CUII·03-0.5x,  美国圣何塞CUII·04-0.5x,  美国圣何塞CUII·05-0.5x
 static=♻️ 自动选择, 🇭🇰 香港节点, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Auto.png
 static=🎶 网易音乐, 🎯 全球直连
 static=📹 油管视频, 🚀 节点选择, 🇭🇰 香港节点, 🌀 手动切换, 🎯 全球直连
