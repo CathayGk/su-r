@@ -57,6 +57,36 @@ http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnR
 [rewrite_remote]
 
 [server_local]
+vmess = 18.163.180.199:311, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·01-1.0x
+vmess = a2ca35e0d18637678.awsglobalaccelerator.com:312, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·02-1.0x
+vmess = a2ca35e0d18637678.awsglobalaccelerator.com:313, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·03-1.0x
+vmess = a2ca35e0d18637678.awsglobalaccelerator.com:314, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·04-1.0x
+vmess = a2ca35e0d18637678.awsglobalaccelerator.com:315, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·05-1.0x
+vmess = a2ca35e0d18637678.awsglobalaccelerator.com:316, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·06-1.0x
+vmess = a2ca35e0d18637678.awsglobalaccelerator.com:317, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·07-1.0x
+vmess = a2ca35e0d18637678.awsglobalaccelerator.com:318, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·08-1.0x
+vmess = a2ca35e0d18637678.awsglobalaccelerator.com:319, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·09-1.0x
+vmess = a2ca35e0d18637678.awsglobalaccelerator.com:320, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·10-1.0x
+vmess = 118.26.38.140:301, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-01-1.5x
+vmess = 152.32.225.249:302, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-02-1.5x
+vmess = 152.32.251.142:303, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-03-1.5x
+vmess = 107.150.122.184:304, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-04-1.5x
+vmess = 152.32.251.154:305, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-05-1.5x
+vmess = 152.32.251.137:306, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-06-1.5x
+vmess = 01.JP.LIWEIBGP.SITE:31001, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag= 日本东京NTT·01-BGP-1.0x
+vmess = 02.JP.LIWEIBGP.SITE:31002, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag= 日本东京NTT·02-BGP-1.0x
+vmess = 03.JP.LIWEIBGP.SITE:31003, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag= 日本东京NTT·03-BGP-1.0x
+vmess = 04.JP.LIWEIBGP.SITE:31004, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag= 日本东京NTT·04-BGP-1.0x
+vmess = 05.JP.LIWEIBGP.SITE:31005, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag= 日本东京NTT·05-BGP-1.0x
+vmess = S1-01.SG.LIWEIBGP.SITE:32001, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡狮NTT·01-BGP-1.0x
+vmess = S1-03.SG.LIWEIBGP.SITE:32003, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡狮NTT·03-BGP-1.0x
+vmess = S1-04.SG.LIWEIBGP.SITE:32004, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡狮NTT·04-BGP-1.0x
+vmess = S1-05.SG.LIWEIBGP.SITE:32005, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡狮NTT·05-BGP-1.0x
+vmess = 91.217.139.98:30001, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag= 美国圣何塞CUII·01-0.5x
+vmess = 91.217.139.92:30002, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag= 美国圣何塞CUII·02-0.5x
+vmess = 91.217.139.250:30003, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag= 美国圣何塞CUII·03-0.5x
+vmess = 91.217.139.193:30004, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag= 美国圣何塞CUII·04-0.5x
+vmess = 91.217.139.72:30005, method=chacha20-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag= 美国圣何塞CUII·05-0.5x
 
 [filter_local]
 GEOIP,CN,🎯 全球直连
