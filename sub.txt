@@ -12,23 +12,23 @@ server=8.8.8.8
 
 [policy]
 static=🚀 节点选择, ♻️ 自动选择, 🇭🇰 香港节点, 🌀 手动切换, 🎯 全球直连
-static=🌀 手动切换, 🇭🇰 中国香港Aws·01-1.0x, 🇭🇰 中国香港Aws·02-1.0x, 🇭🇰 中国香港Aws·03-1.0x, 🇭🇰 中国香港Aws·04-1.0x, 🇭🇰 中国香港Aws·05-1.0x, 🇭🇰 中国香港Aws·06-1.0x, 🇭🇰 中国香港Aws·07-1.0x, 🇭🇰 中国香港Aws·08-1.0x, 🇭🇰 中国香港Aws·09-1.0x, 🇭🇰 中国香港Aws·10-1.0x, 🇭🇰 中国香港CN2-01-1.5x, 🇭🇰 中国香港CN2-02-1.5x, 🇭🇰 中国香港CN2-03-1.5x, 🇭🇰 中国香港CN2-04-1.5x, 🇭🇰 中国香港CN2-05-1.5x, 🇭🇰 中国香港CN2-06-1.5x, 🇯🇵 日本东京NTT·01-BGP-1.0x, 🇯🇵 日本东京NTT·02-BGP-1.0x, 🇯🇵 日本东京NTT·03-BGP-1.0x, 🇯🇵 日本东京NTT·04-BGP-1.0x, 🇯🇵 日本东京NTT·05-BGP-1.0x, 🇸🇬 新加坡狮NTT·01-BGP-1.0x, 🇸🇬 新加坡狮NTT·03-BGP-1.0x, 🇸🇬 新加坡狮NTT·04-BGP-1.0x, 🇸🇬 新加坡狮NTT·05-BGP-1.0x, 🇺🇸 美国圣何塞CUII·01-0.5x, 🇺🇸 美国圣何塞CUII·02-0.5x, 🇺🇸 美国圣何塞CUII·03-0.5x, 🇺🇸 美国圣何塞CUII·04-0.5x, 🇺🇸 美国圣何塞CUII·05-0.5x
+static=🌀 手动切换, 
 static=♻️ 自动选择, 🇭🇰 香港节点, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Auto.png
 static=🎶 网易音乐, 🎯 全球直连
 static=📹 油管视频, 🚀 节点选择, 🇭🇰 香港节点, 🌀 手动切换, 🎯 全球直连
-static=🎥 奈飞视频, 🚀 节点选择, 🇭🇰 香港节点, 🌀 手动切换, 🎯 全球直连
+
 static=🌍 国外媒体, 🚀 节点选择, 🇭🇰 香港节点, 🌀 手动切换, 🎯 全球直连, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GlobalMedia.png
 static=🌏 国内媒体, 🎯 全球直连, 🚀 节点选择, 🌀 手动切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/DomesticMedia.png
 static=📲 电报消息, 🚀 节点选择, 🇭🇰 香港节点, 🌀 手动切换, 🎯 全球直连
 static=📱 推特内容, 🚀 节点选择, 🇭🇰 香港节点, 🌀 手动切换, 🎯 全球直连
 static=📢 谷歌FCM, 🎯 全球直连, 🚀 节点选择, 🇭🇰 香港节点, 🌀 手动切换
-static=Ⓜ️ 微软云盘, 🎯 全球直连, 🚀 节点选择, 🇭🇰 香港节点, 🌀 手动切换
+
 static=🍎 苹果服务, 🎯 全球直连, 🚀 节点选择, 🇭🇰 香港节点, 🌀 手动切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
 static=🎯 全球直连, DIRECT, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Direct.png
 static=🛑 广告拦截, REJECT, DIRECT
 static=🍃 应用净化, REJECT, DIRECT
 static=🐟 漏网之鱼, 🚀 节点选择, ♻️ 自动选择, 🌀 手动切换, 🎯 全球直连, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Final.png
-static=🇭🇰 香港节点, 🇭🇰 中国香港Aws·01-1.0x, 🇭🇰 中国香港Aws·02-1.0x, 🇭🇰 中国香港Aws·03-1.0x, 🇭🇰 中国香港Aws·04-1.0x, 🇭🇰 中国香港Aws·05-1.0x, 🇭🇰 中国香港Aws·06-1.0x, 🇭🇰 中国香港Aws·07-1.0x, 🇭🇰 中国香港Aws·08-1.0x, 🇭🇰 中国香港Aws·09-1.0x, 🇭🇰 中国香港Aws·10-1.0x, 🇭🇰 中国香港CN2-01-1.5x, 🇭🇰 中国香港CN2-02-1.5x, 🇭🇰 中国香港CN2-03-1.5x, 🇭🇰 中国香港CN2-04-1.5x, 🇭🇰 中国香港CN2-05-1.5x, 🇭🇰 中国香港CN2-06-1.5x
+static=🇭🇰 香港节点, 
 
 [server_remote]
 
@@ -42,13 +42,11 @@ http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnR
 http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvQmFuRWFzeVByaXZhY3kubGlzdA&group=8J-bkSDlub_lkYrmi6bmiKo, tag=🛑 广告拦截, enabled=true
 http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvUnVsZXNldC9Hb29nbGVGQ00ubGlzdA&group=8J-ToiDosLfmrYxGQ00, tag=📢 谷歌FCM, enabled=true
 http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvR29vZ2xlQ04ubGlzdA&group=8J-OryDlhajnkIPnm7Tov54, tag=🎯 全球直连, enabled=true
-http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvT25lRHJpdmUubGlzdA&group=4pOC77iPIOW-rui9r-S6keebmA, tag=Ⓜ️ 微软云盘, enabled=true
 http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvQXBwbGUubGlzdA&group=8J-NjiDoi7nmnpzmnI3liqE, tag=🍎 苹果服务, enabled=true
 http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvVGVsZWdyYW0ubGlzdA&group=8J-TsiDnlLXmiqXmtojmga8, tag=📲 电报消息, enabled=true
 http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvUnVsZXNldC9Ud2l0dGVyLmxpc3Q&group=8J-TsSDmjqjnibnlhoXlrrk, tag=📱 推特内容, enabled=true
 http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvUnVsZXNldC9OZXRFYXNlTXVzaWMubGlzdA&group=8J-OtiDnvZHmmJPpn7PkuZA, tag=🎶 网易音乐, enabled=true
 http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvUnVsZXNldC9Zb3VUdWJlLmxpc3Q&group=8J-TuSDmsrnnrqHop4bpopE, tag=📹 油管视频, enabled=true
-http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvUnVsZXNldC9OZXRmbGl4Lmxpc3Q&group=8J-OpSDlpYjpo57op4bpopE, tag=🎥 奈飞视频, enabled=true
 http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvQ2hpbmFNZWRpYS5saXN0&group=8J-MjyDlm73lhoXlqpLkvZM, tag=🌏 国内媒体, enabled=true
 http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvUHJveHlNZWRpYS5saXN0&group=8J-MjSDlm73lpJblqpLkvZM, tag=🌍 国外媒体, enabled=true
 http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvUHJveHlHRldsaXN0Lmxpc3Q&group=8J-agCDoioLngrnpgInmi6k, tag=🚀 节点选择, enabled=true
@@ -59,36 +57,6 @@ http://127.0.0.1:25500/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnR
 [rewrite_remote]
 
 [server_local]
-vmess = 18.163.180.199:311, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·01-1.0x
-vmess = a2ca35e0d18637678.awsglobalaccelerator.com:312, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·02-1.0x
-vmess = a2ca35e0d18637678.awsglobalaccelerator.com:313, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·03-1.0x
-vmess = a2ca35e0d18637678.awsglobalaccelerator.com:314, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·04-1.0x
-vmess = a2ca35e0d18637678.awsglobalaccelerator.com:315, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·05-1.0x
-vmess = a2ca35e0d18637678.awsglobalaccelerator.com:316, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·06-1.0x
-vmess = a2ca35e0d18637678.awsglobalaccelerator.com:317, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·07-1.0x
-vmess = a2ca35e0d18637678.awsglobalaccelerator.com:318, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·08-1.0x
-vmess = a2ca35e0d18637678.awsglobalaccelerator.com:319, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·09-1.0x
-vmess = a2ca35e0d18637678.awsglobalaccelerator.com:320, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港Aws·10-1.0x
-vmess = 118.26.38.140:301, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-01-1.5x
-vmess = 152.32.225.249:302, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-02-1.5x
-vmess = 152.32.251.142:303, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-03-1.5x
-vmess = 107.150.122.184:304, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-04-1.5x
-vmess = 152.32.251.154:305, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-05-1.5x
-vmess = 152.32.251.137:306, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇭🇰 中国香港CN2-06-1.5x
-vmess = 01.JP.LIWEIBGP.SITE:31001, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇯🇵 日本东京NTT·01-BGP-1.0x
-vmess = 02.JP.LIWEIBGP.SITE:31002, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇯🇵 日本东京NTT·02-BGP-1.0x
-vmess = 03.JP.LIWEIBGP.SITE:31003, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇯🇵 日本东京NTT·03-BGP-1.0x
-vmess = 04.JP.LIWEIBGP.SITE:31004, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇯🇵 日本东京NTT·04-BGP-1.0x
-vmess = 05.JP.LIWEIBGP.SITE:31005, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇯🇵 日本东京NTT·05-BGP-1.0x
-vmess = S1-01.SG.LIWEIBGP.SITE:32001, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡狮NTT·01-BGP-1.0x
-vmess = S1-03.SG.LIWEIBGP.SITE:32003, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡狮NTT·03-BGP-1.0x
-vmess = S1-04.SG.LIWEIBGP.SITE:32004, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡狮NTT·04-BGP-1.0x
-vmess = S1-05.SG.LIWEIBGP.SITE:32005, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡狮NTT·05-BGP-1.0x
-vmess = 91.217.139.98:30001, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇺🇸 美国圣何塞CUII·01-0.5x
-vmess = 91.217.139.92:30002, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇺🇸 美国圣何塞CUII·02-0.5x
-vmess = 91.217.139.250:30003, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇺🇸 美国圣何塞CUII·03-0.5x
-vmess = 91.217.139.193:30004, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇺🇸 美国圣何塞CUII·04-0.5x
-vmess = 91.217.139.72:30005, method=chacha20-ietf-poly1305, password=ca17fe77-ff80-4293-b383-4cb71dc75362, fast-open=false, udp-relay=false, tag=🇺🇸 美国圣何塞CUII·05-0.5x
 
 [filter_local]
 GEOIP,CN,🎯 全球直连
@@ -97,4 +65,5 @@ FINAL,🐟 漏网之鱼
 [rewrite_local]
 
 [mitm]
-
+ca-passphrase = 903BE393
+ca-p12 = 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
