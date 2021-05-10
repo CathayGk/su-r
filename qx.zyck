@@ -14,5 +14,3 @@ https://api.mozillacoin.com/main/main? url script-request-body https://raw.githu
 https://ttcj.dashengtec.com/api/v2/sign url script-request-body https://raw.githubusercontent.com/xl2101200/-/main/ttcj.js
 #ip抽奖
 https://gate.wanou1.com/miniprogram3/modelArticle url script-request-body https://raw.githubusercontent.com/xl2101200/-/main/ipxz.js
-#疯狂森林
-^http://yunshu.haoshi.co/index.php/index/wallet/index url script-request-header https://raw.githubusercontent.com/age174/-/main/fksl.js
