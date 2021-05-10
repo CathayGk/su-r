@@ -1,4 +1,4 @@
-hostname = redbag.renyouwangluo.cn,api-access.pangolin-sdk-toutiao.com, www.shikeshijie.com, bp-api.coohua.com, api.mozillacoin.com, ttcj.dashengtec.com, gate.wanou1.com
+hostname = redbag.renyouwangluo.cn,api-access.pangolin-sdk-toutiao.com, www.shikeshijie.com, bp-api.coohua.com, api.mozillacoin.com, ttcj.dashengtec.com, gate.wanou1.com,
 #食材大冲关视频
 https://api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk/reward_video/reward/ url script-request-body https://raw.githubusercontent.com/age174/-/main/scdcg.js
 #食材大冲关红包
@@ -14,3 +14,5 @@ https://api.mozillacoin.com/main/main? url script-request-body https://raw.githu
 https://ttcj.dashengtec.com/api/v2/sign url script-request-body https://raw.githubusercontent.com/xl2101200/-/main/ttcj.js
 #ip抽奖
 https://gate.wanou1.com/miniprogram3/modelArticle url script-request-body https://raw.githubusercontent.com/xl2101200/-/main/ipxz.js
+#疯狂森林
+^http://yunshu.haoshi.co/index.php/index/wallet/index url script-request-header https://raw.githubusercontent.com/age174/-/main/fksl.js
