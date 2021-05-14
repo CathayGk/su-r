@@ -1,4 +1,4 @@
-hostname = redbag.renyouwangluo.cn,api-access.pangolin-sdk-toutiao.com, www.shikeshijie.com, bp-api.coohua.com, api.mozillacoin.com, ttcj.dashengtec.com, gate.wanou1.com, mgesq.api.mgtv.com, ss.sohu.com
+hostname = redbag.renyouwangluo.cn,api-access.pangolin-sdk-toutiao.com, www.shikeshijie.com, bp-api.coohua.com, api.mozillacoin.com, ttcj.dashengtec.com, gate.wanou1.com, mgesq.api.mgtv.com, ss.sohu.com,zoon.renyouwangluo.cn,api-access.pangolin-sdk-toutiao.com
 #食材大冲关视频
 https://api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk/reward_video/reward/ url script-request-body https://raw.githubusercontent.com/age174/-/main/scdcg.js
 #食材大冲关红包
@@ -18,3 +18,7 @@ https://gate.wanou1.com/miniprogram3/modelArticle url script-request-body https:
 https:\/\/mgesq\.api\.mgtv\.com\/user\/center? url script-request-header https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/xm.js
 //搜狐资讯获取ck
 https:\/\/ss\.sohu\.com\/api\/sign\/everyday\/get url script-request-body https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shzx.js
+#动物研究院视频
+https://api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk/reward_video/reward/ url script-request-body https://raw.githubusercontent.com/age174/-/main/dwyjy.js
+#动物研究院红包
+https://zoon.renyouwangluo.cn/api/redbag/normal url script-request-body https://raw.githubusercontent.com/age174/-/main/dwyjy.js
